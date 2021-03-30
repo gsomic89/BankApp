@@ -1,0 +1,7 @@
+
+***Run functionality from Main class!!!***
+
+***TestRunner runs all tests contained in BankAccountTest class and returns true if
+   all JUNIT tests pass***
+
+***Can also run test manually from BankAccountTest class, individually or all at once***
